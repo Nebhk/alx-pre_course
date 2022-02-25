@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  echo> up_to_date 
+=======
+git pull
+>>>>>>> 3a6a41dc76dcc20faccf2d38d9ff2b9593a59a29
